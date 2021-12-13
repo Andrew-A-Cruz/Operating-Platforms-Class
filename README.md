@@ -1,1 +1,3 @@
 # Operating-Platforms-Class
+The client was the Gaming room. They wanted a video game that they originally had developed for android to be developed into a web app and for those clients to be crossplatform. This documentation has been well researched and disucusses the difference between operating platforms well. If I could revise a portion of this document, I would go back and revisit the design constrains section and elaborate more.
+The users needs are extremely important when designing software. There could be many isntances where a develper could make something that meets the requirements but ultimatley sabatoges future progress for the company. Designing for the future in mind is critical for the consumer and the longevity of the product. 
